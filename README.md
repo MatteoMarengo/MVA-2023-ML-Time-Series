@@ -6,3 +6,6 @@ Labs and Project for the course "Machine Learning for Time Series" by Laurent OU
 
 ----
 <b> Lab 2 : AR (Auto regressive) and MA (Moving Average) processes </b>
+
+---
+<b> Project : TSFEL Library (WIP) </b>
